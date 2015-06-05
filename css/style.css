@@ -1,0 +1,95 @@
+.navbar-top {
+  background: #2B78E4; }
+
+.navbar-header a {
+  font-size: 30px;
+  color: #fff; }
+
+.icon-bar {
+  background-color: #fff; }
+
+.navbar-toggle {
+  border-color: #fff; }
+
+.navbar-brand img {
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px; }
+
+.header-photo {
+  height: 450px;
+  background-image: url("http://s3.amazonaws.com/viking_education/web_development/web_app_eng/hogwarts_small.jpg");
+  background-position: center;
+  background-size: cover;
+  border: 1px solid black; }
+
+.sign-up-main-left {
+  padding-top: 100px; }
+  .sign-up-main-left h1 {
+    font-size: 40px; }
+  .sign-up-main-left ul {
+    margin-top: 20px; }
+  .sign-up-main-left li {
+    font-size: 20px;
+    margin-bottom: 10px; }
+
+.sign-up-main-right h1 {
+  font-size: 50px; }
+
+.form-control-fname {
+  margin-bottom: 15px; }
+
+.sign-up-radio {
+  font-size: 16px; }
+
+.btn-sign-up {
+  height: 60px;
+  font-size: 30px; }
+
+.header-nav {
+  border: 1px solid black;
+  height: 42px; }
+
+.profile-pic-cont {
+  position: relative; }
+  .profile-pic-cont img {
+    display: inline-block;
+    wdith: 100%;
+    max-height: 400px; }
+
+.header-photo img {
+  position: absolute;
+  bottom: -30px;
+  max-width: 20%; }
+
+.profile-name {
+  position: absolute;
+  bottom: 0;
+  left: 23%; }
+  .profile-name h1 {
+    color: #fff;
+    font-size: 3em; }
+
+.centered-pills {
+  text-align: center; }
+
+.centered-pills ul.nav-pills {
+  display: inline-block; }
+
+.centered-pills li {
+  display: inline; }
+
+.centered-pills a {
+  float: left; }
+
+* html .centered-pills ul.nav-pills {
+  display: inline; }
+
+/* IE6 */
+* + html .centered-pills ul.nav-pills {
+  display: inline; }
+
+/* IE7 */
+
+/*# sourceMappingURL=style.css.map */

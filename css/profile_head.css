@@ -1,0 +1,38 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.db-profile img.db-image-lg{
+    z-index: 0;
+    width: 100%;
+    max-height: 400px;  
+    margin-bottom: 10px;
+}
+
+.db-image-profile
+{
+    margin: -100px 10px 0px 50px;
+    z-index: 0;
+    width: 20%; 
+}
+
+@media (max-width:768px)
+{
+    
+.db-profile-text>h1{
+    font-color: #fff;
+    font-weight: 700;
+    font-size:16px;
+}
+
+.db-image-profile
+{
+    margin: -45px 10px 0px 25px;
+    z-index: 9;
+    width: 20%; 
+}
